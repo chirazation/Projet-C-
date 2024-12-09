@@ -7,7 +7,7 @@
 // Structure représentant un client
 typedef struct {
     int id;         // Identifiant unique du client
-    char nom[20];   // Nom du client
+    char nom[20];  
     char srv[20];   // Service demandé par le client
 } Client;
 
